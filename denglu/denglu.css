@@ -1,0 +1,10 @@
+.dl,.zhuce
+{
+position:absolute;
+top:40%;
+right:40%;
+font-size: 40px;
+width:20%;
+height:30%;
+z-index:2;
+}
